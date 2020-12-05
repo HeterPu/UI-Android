@@ -1,0 +1,3 @@
+include ':app'
+include ':BaseDialog'
+rootProject.name = "UI-Android"
